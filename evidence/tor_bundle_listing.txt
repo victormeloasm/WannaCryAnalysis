@@ -1,0 +1,18 @@
+Archive:  /mnt/data/s.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+        0  2026-06-28 22:29   s/
+        0  2000-01-01 02:00   s/Data/
+        0  2017-05-09 19:58   s/Data/Tor/
+        0  2000-01-01 02:00   s/Tor/
+  3197106  2000-01-01 02:00   s/Tor/libeay32.dll
+   719217  2000-01-01 02:00   s/Tor/libevent-2-0-5.dll
+   417759  2000-01-01 02:00   s/Tor/libevent_core-2-0-5.dll
+   411369  2000-01-01 02:00   s/Tor/libevent_extra-2-0-5.dll
+   523262  2000-01-01 02:00   s/Tor/libgcc_s_sjlj-1.dll
+    92599  2000-01-01 02:00   s/Tor/libssp-0.dll
+   711459  2000-01-01 02:00   s/Tor/ssleay32.dll
+  3098624  2000-01-01 02:00   s/Tor/tor.exe
+   107520  2000-01-01 02:00   s/Tor/zlib1.dll
+---------                     -------
+  9278915                     13 files

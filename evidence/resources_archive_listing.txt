@@ -1,0 +1,43 @@
+Archive:  /mnt/data/resources.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+        0  2026-06-28 22:28   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/
+  1440054  2017-05-11 23:13   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/b.wnry
+      780  2017-05-11 23:11   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/c.wnry
+        0  2026-06-28 22:28   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/
+    47879  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_bulgarian.wnry
+    54359  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_chinese (simplified).wnry
+    79346  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_chinese (traditional).wnry
+    39070  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_croatian.wnry
+    40512  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_czech.wnry
+    37045  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_danish.wnry
+    36987  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_dutch.wnry
+    36973  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_english.wnry
+    37580  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_filipino.wnry
+    38377  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_finnish.wnry
+    38437  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_french.wnry
+    37181  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_german.wnry
+    49044  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_greek.wnry
+    37196  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_indonesian.wnry
+    36883  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_italian.wnry
+    81844  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_japanese.wnry
+    91501  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_korean.wnry
+    41169  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_latvian.wnry
+    37577  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_norwegian.wnry
+    39896  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_polish.wnry
+    37917  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_portuguese.wnry
+    52161  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_romanian.wnry
+    47108  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_russian.wnry
+    41391  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_slovak.wnry
+    37381  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_spanish.wnry
+    38483  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_swedish.wnry
+    42582  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_turkish.wnry
+    93778  2010-11-20 06:16   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/msg/m_vietnamese.wnry
+      864  2017-05-11 18:59   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/r.wnry
+  3038286  2017-05-09 19:58   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/s.wnry
+    65816  2017-05-12 05:22   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/t.wnry
+    20480  2017-05-12 05:22   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/taskdl.exe
+    20480  2017-05-12 05:22   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/taskse.exe
+   245760  2017-05-12 05:22   ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/u.wnry
+---------                     -------
+  6162177                     38 files

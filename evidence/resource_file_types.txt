@@ -1,0 +1,36 @@
+b.wnry:                           PC bitmap, Windows 3.x format, 800 x 600 x 24, image size 1440000, resolution 3779 x 3779 px/m, cbSize 1440054, bits offset 54
+c.wnry:                           data
+msg/m_bulgarian.wnry:             Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_chinese (simplified).wnry:  Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_chinese (traditional).wnry: Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_croatian.wnry:              Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_czech.wnry:                 Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_danish.wnry:                Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_dutch.wnry:                 Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_english.wnry:               Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_filipino.wnry:              Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_finnish.wnry:               Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_french.wnry:                Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_german.wnry:                Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_greek.wnry:                 Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_indonesian.wnry:            Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_italian.wnry:               Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_japanese.wnry:              Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_korean.wnry:                Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_latvian.wnry:               Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_norwegian.wnry:             Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_polish.wnry:                Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_portuguese.wnry:            Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_romanian.wnry:              Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_russian.wnry:               Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_slovak.wnry:                Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_spanish.wnry:               Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_swedish.wnry:               Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_turkish.wnry:               Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+msg/m_vietnamese.wnry:            Rich Text Format data, version 1, ANSI, code page 1252, default middle east language ID 1025
+r.wnry:                           ASCII text, with CRLF line terminators
+s.wnry:                           Zip archive data, made by v3.1, extract using at least v1.0, last modified Jan 01 2000 00:00:00, uncompressed size 0, method=store
+t.wnry:                           data
+taskdl.exe:                       PE32 executable for MS Windows 4.00 (GUI), Intel i386, 4 sections
+taskse.exe:                       PE32 executable for MS Windows 4.00 (GUI), Intel i386, 4 sections
+u.wnry:                           PE32 executable for MS Windows 4.00 (GUI), Intel i386, 4 sections

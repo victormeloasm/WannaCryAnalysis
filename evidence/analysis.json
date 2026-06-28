@@ -1,0 +1,51 @@
+{
+  "scope": "WannaCry outer/core loader static analysis",
+  "sample": {
+    "sha256": "ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa",
+    "sha1": "5ff465afaabcbf0150d1a3ab2c2e74f3a4426467",
+    "md5": "84c82835a5d21bbcf75a61706d8ab549",
+    "size": 3514368,
+    "type": "PE32 Windows GUI Intel i386",
+    "entropy": 7.995471,
+    "imphash": "68f013d7437aa653a8a98a05807afeb1"
+  },
+  "resource": {
+    "type": "XIA",
+    "id": 2058,
+    "language": 1033,
+    "offset": 65776,
+    "size": 3446325,
+    "password": "WNcry@2ol7"
+  },
+  "registry": {
+    "subkey": "Software\\WanaCrypt0r",
+    "value": "wd",
+    "hive_order": [
+      "HKLM",
+      "HKCU"
+    ]
+  },
+  "mutex": "Global\\MsWinZonesCacheCounterMutexA0",
+  "installed_filename": "tasksche.exe",
+  "inner_payload": "t.wnry",
+  "inner_export": "TaskStart",
+  "wallet_offset_in_c_wnry": 178,
+  "wallets": [
+    "115p7UMMngoj1pMvkpHijcRdfJNXj6LrLn",
+    "12t9YDPgwueZ9NyMgw519p7AA8isjr6SMw",
+    "13AM4VW2dhxYgXeQepoHkHSQuy6NgaEb94"
+  ],
+  "onion_endpoints": [
+    "gx7ekbenv2riucmf.onion",
+    "57g7spgrzlojinas.onion",
+    "xxlvbrloxvriy2c5.onion",
+    "76jdd2ir2embyv47.onion",
+    "cwwnhwhlz52maqm7.onion"
+  ],
+  "open_questions": [
+    "exact install switch bytes",
+    "third directory fallback arguments",
+    "meaning of t.wnry reserved field",
+    "inner TaskStart payload behavior"
+  ]
+}
